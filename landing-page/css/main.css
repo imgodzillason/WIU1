@@ -8,7 +8,8 @@ body{
     background:url(../img/seagull.jpg);
 }
 #wrapper{
-    background:#ffffff;
+    background:#336699;
+    color:#ffffff;
     width:960px;
     margin: 0 auto;
     padding-left: 1%;
@@ -23,6 +24,8 @@ body{
 header{
     border-bottom: 1px solid #bbb8bf; /*changes color of border under project name*/
     text-align:center;
+    font-family: 'Trade Winds', cursive;
+    font-size:3em;
 }
 h1{
     margin-top: 0;
@@ -30,6 +33,9 @@ h1{
 }
 h2{
     margin-top: 20px;
+    font-family: 'Trade Winds', cursive;
+    font-size:2em;
+
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
@@ -86,8 +92,8 @@ figure img{
 
 figcaption{
     text-align:center;
-    font-size:1.2em;
-    color: #0033CC;
+    font-size:1.5em;
+    color: #ffffff;
 }
 .sec{
     clear: both;
@@ -99,7 +105,7 @@ figcaption{
 
 p a{
     font-size:1.0em;
-    color: #006B24;
+    color: #ECA742;
 }
 
 a{
